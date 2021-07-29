@@ -1,4 +1,10 @@
 /* castom css */
+body{
+    overflow:hidden;
+}
+html{
+    overflow-x: hidden;
+}
 .btn-purchase {
     background: #E76F51;
     padding: 10px 40px;
