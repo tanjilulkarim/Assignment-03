@@ -1,0 +1,13 @@
+.btn-purchase {
+    background: #E76F51;
+    padding: 10px 40px;
+    font-weight: 600;
+    color: white;
+    font-size: large;
+}
+.text-special-color{
+    color: #E76F51;
+}
+.grey-img{
+    filter: grayscale(100%);
+}
